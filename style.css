@@ -6,7 +6,7 @@
 
 /* ____________________scroll bar  customization _______ */
 ::-webkit-scrollbar{
-    width: 2px;
+    width: 8px;
 
 }
 ::-webkit-scrollbar-thumb{
